@@ -40,4 +40,4 @@ users will have the ability to withdraw the amount they want. it will be subtrac
 
 Delete Customer’s Account:
 in this function users will be able to delete a customer’s account. Customers should be searched 
-by ID and when the ID is found, the found Customer’s account will be deleted. 
+by ID and when the ID is found, the found Customer’s account will be deleted.  
