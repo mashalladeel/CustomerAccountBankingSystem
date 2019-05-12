@@ -4,6 +4,7 @@ Since programming in bash is the most efficient way of programming, as it can he
 also being used for file manipulations. 
 
 
+
 Introducing Bank Management System is part of the open source software project  developed in shell bash. In this system the user will be having the capability to add, view, delete, update and perform transactions for a user whose account has already been created as part of the first and major step of the project processions.
 
 
